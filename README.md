@@ -54,3 +54,23 @@ do projeto são fictícios.
 ## 📍 Status do projeto
 
 ✅ Versão 1.0 — Concluída.
+
+## 📸 Demonstração do projeto
+
+### 💰 Visão geral — FinPlanner AI
+![Dashboard](dashboard.png)
+
+### 🎯 Metas financeiras
+![Metas](metas.png)
+
+### 📈 Revisões mensais
+![Revisões](revisoes.png)
+
+### 📋 Plano de ação
+![Plano de ação](plano-de-acao.png)
+
+### 💳 Transações financeiras
+![Transações](transacoes.png)
+
+### 📊 Orçamento mensal
+![Orçamento mensal](orcamento-mensal.png)
