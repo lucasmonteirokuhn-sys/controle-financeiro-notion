@@ -74,3 +74,9 @@ do projeto são fictícios.
 
 ### 📊 Orçamento mensal
 ![Orçamento mensal](orcamento-mensal.png)
+
+## 🔗 Acesse o projeto
+
+O FinPlanner AI está disponível como modelo no Notion.
+
+[Acessar e duplicar o modelo no Notion](https://glass-bug-da3.notion.site/4247217d7b8f8043984affafc62b49c9?v=4247217d7b8f80209340000cb61b3a2a&source=copy_link)
